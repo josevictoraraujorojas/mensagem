@@ -80,8 +80,6 @@ O HTTP atua como meio de comunicação entre os processos distribuídos, sendo r
 
 ### 📷 Evidências (prints)
 
-> Inserir abaixo os prints do Postman ou logs do terminal demonstrando:
-
 * Requisição GET funcionando
   <img width="1473" height="867" alt="Get_all" src="https://github.com/user-attachments/assets/3d9fc786-2a5c-45a8-a4f1-0c11a1608e6c" />
 
