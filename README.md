@@ -83,9 +83,20 @@ O HTTP atua como meio de comunicação entre os processos distribuídos, sendo r
 > Inserir abaixo os prints do Postman ou logs do terminal demonstrando:
 
 * Requisição GET funcionando
+  <img width="1473" height="867" alt="Get_all" src="https://github.com/user-attachments/assets/3d9fc786-2a5c-45a8-a4f1-0c11a1608e6c" />
+
 * Requisição POST com criação de mensagem
+  <img width="1488" height="734" alt="Post" src="https://github.com/user-attachments/assets/fd1fb9b8-8611-43d1-a2af-8efd7a80f7ef" />
+
 * Requisição GET por ID existente e inexistente
-* Requisição DELETE funcionando
+  <img width="1464" height="845" alt="Get_id" src="https://github.com/user-attachments/assets/412ae62a-01dc-4e03-a546-f406d37db0b4" />
+  <img width="1476" height="611" alt="get_id_error" src="https://github.com/user-attachments/assets/3f605b88-03c6-4caa-b295-a28a5f209cf3" />
+
+
+* Requisição DELETE existente e inexistente
+  <img width="1477" height="678" alt="delete" src="https://github.com/user-attachments/assets/4fb9c22d-960c-48ce-9dbd-1848fa193f2f" />
+  <img width="1475" height="615" alt="delete_error" src="https://github.com/user-attachments/assets/04bc9ba1-b3d2-41a1-99a3-e69a091183cf" />
+
 
 ---
 
